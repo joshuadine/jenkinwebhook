@@ -1,6 +1,6 @@
 node
 {
-  stage ('Post Commit")
+  stage ('Post Commit')
   {
     echo "This is Post Commit"
   }         
